@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smart Ear Phones</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_to_smart_ear_plug_application">Welcome to Smart Ear Phone Application</string>
+    <string name="stats">Stats</string>
+
+</resources>
